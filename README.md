@@ -36,7 +36,7 @@
 
 > "Democratizing artificial intelligence for businesses of all sizes. We believe every company should have access to cutting-edge AI technology that transforms workflows and drives innovation."
 
-**Live Demo:** [Live Demo Link Coming Soon](#)
+**Live Demo:** [Live Demo Link Coming Soon](https://ps-xx.github.io/Aura-AI-LandingPage/)
 
 ---
 
@@ -102,7 +102,7 @@ This project is built using modern web technologies:
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop Preview](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80&auto=format&fit=crop)
+![Desktop Preview](https://i.postimg.cc/13BvYyMJ/Screenshot-2026-02-04-222316.png)
 
 ### Mobile View
 *Responsive design ensures perfect viewing on all screen sizes*
@@ -123,7 +123,7 @@ Follow these simple steps to run the project locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ps-xx/nexus-ai.git
+   git clone https://github.com/ps-xx/Aura-AI-LandingPage.git
    cd nexus-ai
    ```
 
@@ -214,7 +214,7 @@ GitHub Pages is the easiest way to deploy this static site:
    git add .
    git commit -m "Initial commit"
    git branch -M main
-   git remote add origin https://github.com/ps-xx/nexus-ai.git
+   git remote add origin https://github.com/ps-xx/Aura-AI-LandingPage.git
    git push -u origin main
    ```
 
@@ -226,7 +226,7 @@ GitHub Pages is the easiest way to deploy this static site:
    - Click **Save**
 
 3. **Access your site**
-   - Your site will be available at: `https://ps-xx.github.io/nexus-ai/`
+   - Your site will be available at: `https://github.com/ps-xx/Aura-AI-LandingPage.git`
    - It may take a few minutes for the site to be live
 
 ### Alternative Deployment Options
@@ -292,7 +292,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help:
 
-- Open an [issue](https://github.com/ps-xx/nexus-ai/issues)
+- Open an [issue](https://github.com/ps-xx/Aura-AI-LandingPage.git)
 - Check the [documentation](#features)
 - Review the code comments
 
